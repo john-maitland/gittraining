@@ -7,3 +7,6 @@ Adding a new section on a new feature branch.
 
 # Another New section
 This section was added on GitHub itself. 
+
+# Finally new section
+This is the last commit on the feature-readme branch.
