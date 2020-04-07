@@ -10,3 +10,6 @@ This section was added on GitHub itself.
 
 # Finally new section
 This is the last commit on the feature-readme branch.
+
+# Pull request section
+This section was reviewed with a pull request.
